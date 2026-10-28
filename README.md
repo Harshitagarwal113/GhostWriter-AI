@@ -2,6 +2,8 @@
 > **An unscripted interactive horror-story generator where the machine remembers your decisions, powered by Google's open-weight Gemma model via the Gemini API.**  
 > Built for the **DEV.to Hacktoberfest Week 4 2026** Challenge: *"Ghost in the Machine"*.
 
+![Ghostwriter AI Banner](docs/thumbnail.jpg)
+
 ---
 
 ## 📖 The Problem and Creative Concept

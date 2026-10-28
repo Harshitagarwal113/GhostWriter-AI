@@ -1,5 +1,7 @@
 *This is a submission for the [Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine](https://dev.to/challenges/hacktoberfest-week4-2026-10-26)*
 
+![Ghostwriter AI - Every Choice Leaves a Scar](thumbnail.jpg)
+
 ## What I Built
 
 **Ghostwriter AI — Every Choice Leaves a Scar** is an interactive, unscripted gothic horror storytelling generator designed to give players genuine narrative agency while confronting them with the indelible consequences of their decisions.
